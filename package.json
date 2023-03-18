@@ -18,10 +18,10 @@
     "url": "https://github.com/grmbyrn/job-search-app/issues"
   },
   "homepage": "https://github.com/grmbyrn/job-search-app#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.21"
-  },
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
   }
 }
